@@ -4,3 +4,6 @@ export const ADD_DATA = 'ADD_DATA';
 export const REMOVE_DATA = 'REMOVE_DATA';
 export const GET_NOTE = 'GET_NOTE';
 export const EDIT_DATA = 'EDIT_DATA';
+
+export const FILTER_DATA = 'FILTER_DATA';
+export const SORT_DATA = 'SORT_DATA';
