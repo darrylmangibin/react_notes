@@ -5,7 +5,6 @@ import Container from '../common/Container';
 import Nav from './Nav';
 
 const Header = (props) => {
-  console.log(props)
   return (
     <Fragment>
       <header className="header">
